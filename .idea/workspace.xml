@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d03c5d1-125a-4005-9bd7-e21dc789ff49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aA8kZyNVdvrna0zGzcijOwJyel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exday2/SampleEx201" />
+      <recent name="$PROJECT_DIR$/src/exday2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rockPaperScissors.Main" />
+      <module name="javaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rockPaperScissors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RPG.Main" />
+      <module name="javaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RPG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paintApp.PaintApp" />
+      <module name="javaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paintApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleEx201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exday2.SampleEx201.SampleEx201" />
+      <module name="javaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exday2.SampleEx201.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleEx202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exday2.SampleEx202.SampleEx202" />
+      <module name="javaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exday2.SampleEx202.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.PaintApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SampleEx202" />
+        <item itemvalue="Application.SampleEx201" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d03c5d1-125a-4005-9bd7-e21dc789ff49" name="Default Changelist" comment="" />
+      <created>1586167183463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586167183463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1282" height="199" key="GridCell.Tab.0.bottom" timestamp="1587190389612">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1282" height="199" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587190389612" />
+    <state width="1282" height="373" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1586620682232" />
+    <state width="1282" height="255" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586260897870" />
+    <state width="1282" height="201" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1586263954586" />
+    <state width="1282" height="201" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1586263258849" />
+    <state width="1282" height="258" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586171847737" />
+    <state width="1282" height="199" key="GridCell.Tab.0.center" timestamp="1587190389611">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1282" height="199" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587190389611" />
+    <state width="1282" height="373" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1586620682231" />
+    <state width="1282" height="255" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1586260897869" />
+    <state width="1282" height="201" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1586263954585" />
+    <state width="1282" height="201" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1586263258848" />
+    <state width="1282" height="258" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1586171847737" />
+    <state width="1282" height="199" key="GridCell.Tab.0.left" timestamp="1587190389610">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1282" height="199" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587190389610" />
+    <state width="1282" height="373" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1586620682230" />
+    <state width="1282" height="255" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1586260897869" />
+    <state width="1282" height="201" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1586263954585" />
+    <state width="1282" height="201" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1586263258847" />
+    <state width="1282" height="258" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1586171847736" />
+    <state width="1282" height="199" key="GridCell.Tab.0.right" timestamp="1587190389612">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1282" height="199" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587190389612" />
+    <state width="1282" height="373" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1586620682231" />
+    <state width="1282" height="255" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1586260897870" />
+    <state width="1282" height="201" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1586263954586" />
+    <state width="1282" height="201" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1586263258849" />
+    <state width="1282" height="258" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1586171847737" />
+    <state width="1282" height="373" key="GridCell.Tab.1.bottom" timestamp="1586620682233">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1282" height="373" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586608179765" />
+    <state width="1282" height="373" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1586620682233" />
+    <state width="1282" height="255" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1586260897873" />
+    <state width="1282" height="255" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1586263954575" />
+    <state width="1282" height="257" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1586174326588" />
+    <state width="1282" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1586171847739" />
+    <state width="1282" height="373" key="GridCell.Tab.1.center" timestamp="1586620682232">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1282" height="373" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1586608179764" />
+    <state width="1282" height="373" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1586620682232" />
+    <state width="1282" height="255" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1586260897872" />
+    <state width="1282" height="255" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1586263954574" />
+    <state width="1282" height="257" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1586174326588" />
+    <state width="1282" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1586171847738" />
+    <state width="1282" height="373" key="GridCell.Tab.1.left" timestamp="1586620682232">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1282" height="373" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1586608179763" />
+    <state width="1282" height="373" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1586620682232" />
+    <state width="1282" height="255" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1586260897871" />
+    <state width="1282" height="255" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1586263954574" />
+    <state width="1282" height="257" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1586174326587" />
+    <state width="1282" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1586171847738" />
+    <state width="1282" height="373" key="GridCell.Tab.1.right" timestamp="1586620682233">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1282" height="373" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1586608179764" />
+    <state width="1282" height="373" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1586620682233" />
+    <state width="1282" height="255" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1586260897872" />
+    <state width="1282" height="255" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1586263954575" />
+    <state width="1282" height="257" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1586174326588" />
+    <state width="1282" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1586171847739" />
+    <state x="289" y="214" width="639" height="486" key="find.popup" timestamp="1586263888271">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="289" y="214" width="639" height="486" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1586263888271" />
+  </component>
+</project>
