@@ -23,6 +23,8 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
+
+
 public class PaintApp {
     static int w = 800, h = 600;
 
