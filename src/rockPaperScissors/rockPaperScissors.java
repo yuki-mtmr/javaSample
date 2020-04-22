@@ -12,11 +12,20 @@ public class rockPaperScissors {
 
 
     public void play() {
+        boolean b;
         System.out.println("出す手を決めろ");
         while (you >= 3) {
             System.out.println("0:" + hand[0] + "\n" + "1:" + hand[1] + "\n" + "2:" + hand[2]);
             Scanner scan = new Scanner(System.in);
-            you = scan.nextInt();
+            do {
+                try {
+                    you = Integer.parseInt(scan.nextLine());
+                    b = false;                             // <- if ok, set false
+                } catch(NumberFormatException e){
+                    System.out.println("数字を入力して下さい");
+                    b = true;                              // <- if catch block is entered, set true
+                }
+            } while (b);
             if (you >= 3) {
                 System.out.println("0から2までの数字を入力してください");
             }
